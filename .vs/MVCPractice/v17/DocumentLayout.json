@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LSIPL\\source\\repos\\MVCPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{684BF013-8163-423E-8E90-76FEBAE7A742}|MVCPractice\\MVCPractice.csproj|c:\\users\\lsipl\\source\\repos\\mvcpractice\\mvcpractice\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{684BF013-8163-423E-8E90-76FEBAE7A742}|MVCPractice\\MVCPractice.csproj|solutionrelative:mvcpractice\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684BF013-8163-423E-8E90-76FEBAE7A742}|MVCPractice\\MVCPractice.csproj|c:\\users\\lsipl\\source\\repos\\mvcpractice\\mvcpractice\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{684BF013-8163-423E-8E90-76FEBAE7A742}|MVCPractice\\MVCPractice.csproj|solutionrelative:mvcpractice\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684BF013-8163-423E-8E90-76FEBAE7A742}|MVCPractice\\MVCPractice.csproj|c:\\users\\lsipl\\source\\repos\\mvcpractice\\mvcpractice\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684BF013-8163-423E-8E90-76FEBAE7A742}|MVCPractice\\MVCPractice.csproj|solutionrelative:mvcpractice\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684BF013-8163-423E-8E90-76FEBAE7A742}|MVCPractice\\MVCPractice.csproj|c:\\users\\lsipl\\source\\repos\\mvcpractice\\mvcpractice\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684BF013-8163-423E-8E90-76FEBAE7A742}|MVCPractice\\MVCPractice.csproj|solutionrelative:mvcpractice\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684BF013-8163-423E-8E90-76FEBAE7A742}|MVCPractice\\MVCPractice.csproj|c:\\users\\lsipl\\source\\repos\\mvcpractice\\mvcpractice\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684BF013-8163-423E-8E90-76FEBAE7A742}|MVCPractice\\MVCPractice.csproj|solutionrelative:mvcpractice\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684BF013-8163-423E-8E90-76FEBAE7A742}|MVCPractice\\MVCPractice.csproj|c:\\users\\lsipl\\source\\repos\\mvcpractice\\mvcpractice\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{684BF013-8163-423E-8E90-76FEBAE7A742}|MVCPractice\\MVCPractice.csproj|solutionrelative:mvcpractice\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684BF013-8163-423E-8E90-76FEBAE7A742}|MVCPractice\\MVCPractice.csproj|c:\\users\\lsipl\\source\\repos\\mvcpractice\\mvcpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684BF013-8163-423E-8E90-76FEBAE7A742}|MVCPractice\\MVCPractice.csproj|solutionrelative:mvcpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684BF013-8163-423E-8E90-76FEBAE7A742}|MVCPractice\\MVCPractice.csproj|c:\\users\\lsipl\\source\\repos\\mvcpractice\\mvcpractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{684BF013-8163-423E-8E90-76FEBAE7A742}|MVCPractice\\MVCPractice.csproj|solutionrelative:mvcpractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LSIPL\\source\\repos\\MVCPractice\\MVCPractice\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCPractice\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\LSIPL\\source\\repos\\MVCPractice\\MVCPractice\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "MVCPractice\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T10:07:42.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LSIPL\\source\\repos\\MVCPractice\\MVCPractice\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCPractice\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LSIPL\\source\\repos\\MVCPractice\\MVCPractice\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "MVCPractice\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T12:07:03.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LSIPL\\source\\repos\\MVCPractice\\MVCPractice\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCPractice\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LSIPL\\source\\repos\\MVCPractice\\MVCPractice\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "MVCPractice\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T10:33:37.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LSIPL\\source\\repos\\MVCPractice\\MVCPractice\\Program.cs",
+              "RelativeDocumentMoniker": "MVCPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\LSIPL\\source\\repos\\MVCPractice\\MVCPractice\\Program.cs",
+              "RelativeToolTip": "MVCPractice\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:50:04.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LSIPL\\source\\repos\\MVCPractice\\MVCPractice\\Models\\dbContext.cs",
+              "RelativeDocumentMoniker": "MVCPractice\\Models\\dbContext.cs",
+              "ToolTip": "C:\\Users\\LSIPL\\source\\repos\\MVCPractice\\MVCPractice\\Models\\dbContext.cs",
+              "RelativeToolTip": "MVCPractice\\Models\\dbContext.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAA9wG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:56:28.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "C:\\Users\\LSIPL\\source\\repos\\MVCPractice\\MVCPractice\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "MVCPractice\\Models\\EmployeeModel.cs",
+              "ToolTip": "C:\\Users\\LSIPL\\source\\repos\\MVCPractice\\MVCPractice\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "MVCPractice\\Models\\EmployeeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:52:40.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\LSIPL\\source\\repos\\MVCPractice\\MVCPractice\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MVCPractice\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\LSIPL\\source\\repos\\MVCPractice\\MVCPractice\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MVCPractice\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:51:04.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LSIPL\\source\\repos\\MVCPractice\\MVCPractice\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCPractice\\appsettings.json",
+              "ToolTip": "C:\\Users\\LSIPL\\source\\repos\\MVCPractice\\MVCPractice\\appsettings.json",
+              "RelativeToolTip": "MVCPractice\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T09:45:41.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
