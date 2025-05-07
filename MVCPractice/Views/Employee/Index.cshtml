@@ -60,18 +60,18 @@
             <td>
                 @Html.DisplayFor(modelItem => item.LastName)
             </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Age)
-            </td>
+                <td>
+                    @(item.Age.HasValue ? item.Age.ToString() : "N/A")
+                </td>
             <td>
                 @Html.DisplayFor(modelItem => item.DOB)
             </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.State)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Gender)
-            </td>
+                <td>
+                    @(string.IsNullOrWhiteSpace(item.State) ? "N/A" : item.State)
+                </td>
+                <td>
+                    @(string.IsNullOrWhiteSpace(item.Gender) ? "N/A" : item.Gender)
+                </td>
             <td>
                     <div class="btn-group" role="group">
                         @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "btn btn-primary btn-sm me-2" })

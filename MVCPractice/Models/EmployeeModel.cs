@@ -11,13 +11,13 @@ namespace MVCPractice.Models
         public string? FirstName { get; set; }
         [Required(ErrorMessage = "LastName Required")]
         public string? LastName { get; set; }
-        public int Age { get; set; }
+        public int? Age { get; set; }
         [Required(ErrorMessage = "DOB Required")]
         [DataType(DataType.Date)]
         public DateTime DOB { get; set; }
-        public string State { get; set; }
+        public string? State { get; set; }
 
-        public string Gender { get; set; }
+        public string? Gender { get; set; }
 
     }
 }
